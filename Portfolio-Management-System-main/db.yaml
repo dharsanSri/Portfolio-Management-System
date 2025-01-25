@@ -1,0 +1,5 @@
+mysql_user: root
+mysql_password: pavan
+mysql_host: localhost
+mysql_db: portfolio
+secret_key: your_secret_key_value
